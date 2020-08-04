@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Weather-Forecast-React/static/css/main.17339b61.chunk.css",
+    "main.js": "/Weather-Forecast-React/static/js/main.327d072d.chunk.js",
+    "main.js.map": "/Weather-Forecast-React/static/js/main.327d072d.chunk.js.map",
+    "runtime-main.js": "/Weather-Forecast-React/static/js/runtime-main.4794c9da.js",
+    "runtime-main.js.map": "/Weather-Forecast-React/static/js/runtime-main.4794c9da.js.map",
+    "static/js/2.ad5e34e5.chunk.js": "/Weather-Forecast-React/static/js/2.ad5e34e5.chunk.js",
+    "static/js/2.ad5e34e5.chunk.js.map": "/Weather-Forecast-React/static/js/2.ad5e34e5.chunk.js.map",
+    "index.html": "/Weather-Forecast-React/index.html",
+    "precache-manifest.6b1e95957a70e6801867df3982e98a3e.js": "/Weather-Forecast-React/precache-manifest.6b1e95957a70e6801867df3982e98a3e.js",
+    "service-worker.js": "/Weather-Forecast-React/service-worker.js",
+    "static/css/main.17339b61.chunk.css.map": "/Weather-Forecast-React/static/css/main.17339b61.chunk.css.map",
+    "static/js/2.ad5e34e5.chunk.js.LICENSE.txt": "/Weather-Forecast-React/static/js/2.ad5e34e5.chunk.js.LICENSE.txt",
+    "static/media/index.sass": "/Weather-Forecast-React/static/media/bg1.0f001c00.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4794c9da.js",
+    "static/js/2.ad5e34e5.chunk.js",
+    "static/css/main.17339b61.chunk.css",
+    "static/js/main.327d072d.chunk.js"
+  ]
+}
