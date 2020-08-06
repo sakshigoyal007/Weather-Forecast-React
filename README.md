@@ -1,9 +1,18 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Weather App
 
-## Available Scripts
+A weather application to provide current and 5 day/3 hour weather forecast for any city in the world built using React.
 
-In the project directory, you can run:
+The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Utilises [OpenWeatherMap API](https://openweathermap.org) for weather data.
+
+## Setup
+
+- Clone this repo `https://github.com/sakshigoyal007/Weather-Forecast-React.git`
+- cd `Weather-Forecast-React`
+- Install the node packages `npm install`
+- Serve it locally `npm start`
+- Go to `http://localhost:3000`
 ### `yarn start`
 
 Runs the app in the development mode.<br />
